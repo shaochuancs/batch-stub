@@ -1,0 +1,26 @@
+{
+  "name": "batch-stub",
+  "version": "1.0.0",
+  "description": "Stub multiple fields according to configuration object",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaochuancs/batch-stub.git"
+  },
+  "keywords": [
+    "stub"
+  ],
+  "author": "Chuan Shao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shaochuancs/batch-stub/issues"
+  },
+  "homepage": "https://github.com/shaochuancs/batch-stub#readme",
+  "devDependencies": {
+    "lodash": "^4.17.4",
+    "mocha": "^3.5.3"
+  }
+}
